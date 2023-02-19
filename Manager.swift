@@ -23,5 +23,17 @@ class Manager {
     class func func4() {
 
     }
+    
+    class func func5() {
+
+    }
+    
+    class func func6() {
+
+    }
+    
+    class func func7() {
+
+    }
 
 }
