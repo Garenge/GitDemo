@@ -40,7 +40,7 @@ class Manager {
 
     }
     
-    class func func9() {
+    class func func9999() {
 
     }
     
