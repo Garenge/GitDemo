@@ -39,5 +39,9 @@ class Manager {
     class func func8() {
 
     }
+    
+    class func func9() {
+
+    }
 
 }
