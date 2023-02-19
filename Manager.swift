@@ -48,4 +48,7 @@ class Manager {
 
     }
 
+    class func register() {
+        
+    }
 }
