@@ -28,7 +28,7 @@ class Manager {
 
     }
     
-    class func func60() {
+    class func func666() {
 
     }
     
