@@ -44,7 +44,7 @@ class Manager {
 
     }
     
-    class func func10000000000000() {
+    class func func10111() {
 
     }
 
