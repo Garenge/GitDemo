@@ -32,7 +32,7 @@ class Manager {
 
     }
     
-    class func fun7() {
+    class func func7() {
 
     }
 
