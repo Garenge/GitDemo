@@ -35,5 +35,9 @@ class Manager {
     class func func7() {
 
     }
+    
+    class func func8() {
+
+    }
 
 }
