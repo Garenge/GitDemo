@@ -8,4 +8,20 @@ class Manager {
         print(string)
     }
 
+    class func func1() {
+
+    }
+
+    class func func2() {
+
+    }
+
+    class func func3() {
+
+    }
+
+    class func func4() {
+
+    }
+
 }
