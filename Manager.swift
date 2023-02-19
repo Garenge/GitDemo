@@ -8,7 +8,7 @@ class Manager {
         print(string)
     }
 
-    class func func1() {
+    class func func15555555() {
 
     }
 
